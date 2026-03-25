@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T14:08:38.462691+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-03-25T15:57:09.031711+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时14分 ~ 14时08分]"
+          "appearance_count": 12,
+          "time_info": "[03时14分 ~ 15时57分]"
+        },
+        {
+          "title": "OpenClaw 重大升级遇挫，激进重构导致大量用户插件瘫痪、功能失效，影响有多大？你的龙虾还好吗？",
+          "url": "https://www.zhihu.com/question/2019822425672476021",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时08分 ~ 15时57分]"
         },
         {
           "title": "亚马逊传闻引爆软件板块恐慌 “AI颠覆逻辑”再度升温",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
-        },
-        {
-          "title": "OpenClaw 重大升级遇挫，激进重构导致大量用户插件瘫痪、功能失效，影响有多大？你的龙虾还好吗？",
-          "url": "https://www.zhihu.com/question/2019822425672476021",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
         },
         {
           "title": "TikTok正为自制短剧系列遴选角色。（Business Insider）",
