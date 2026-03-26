@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-03-26T23:10:46.032631+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-03-27T01:09:28.877759+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜亚马逊收涨超2.1%，英伟达涨约2%",
-          "url": "https://wallstreetcn.com/livenews/3076897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 06时42分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
