@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T19:45:26.202107+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-03-27T21:17:13.488147+08:00",
+  "total_titles_processed": 1679,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             6,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时12分 ~ 19时45分]"
+          "appearance_count": 10,
+          "time_info": "[13时12分 ~ 21时17分]"
         },
         {
           "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
