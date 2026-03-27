@@ -1,40 +1,22 @@
 {
-  "generated_at": "2026-03-27T23:59:06.546120+08:00",
-  "total_titles_processed": 1899,
+  "generated_at": "2026-03-28T01:04:47.012289+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "反抓虾吧成立!openclaw快臣服",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352416&amp;topic_name=%E5%8F%8D%E6%8A%93%E8%99%BE%E5%90%A7%E6%88%90%E7%AB%8B%21openclaw%E5%BF%AB%E8%87%A3%E6%9C%8D",
           "source": "贴吧",
           "ranks": [
-            4,
-            6,
-            7,
-            8,
-            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时12分 ~ 23时59分]"
-        },
-        {
-          "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3077682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时37分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     }
