@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-03-27T17:01:53.333947+08:00",
-  "total_titles_processed": 1298,
-  "failed_sources": [
-    "bilibili-hot-search"
-  ],
+  "generated_at": "2026-03-27T18:03:13.808372+08:00",
+  "total_titles_processed": 1414,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
@@ -16,11 +14,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 17时01分]"
+          "appearance_count": 7,
+          "time_info": "[13时12分 ~ 18时03分]"
         },
         {
           "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
