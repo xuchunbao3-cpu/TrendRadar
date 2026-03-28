@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T07:39:24.925455+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-03-28T10:35:58.690488+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352416&amp;topic_name=%E5%8F%8D%E6%8A%93%E8%99%BE%E5%90%A7%E6%88%90%E7%AB%8B%21openclaw%E5%BF%AB%E8%87%A3%E6%9C%8D",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时39分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 10时35分]"
         }
       ]
     }
