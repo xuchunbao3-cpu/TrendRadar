@@ -1,77 +1,22 @@
 {
-  "generated_at": "2026-04-01T23:10:35.049855+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2026-04-02T01:02:09.859400+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "国家知识产权局：使用OpenClaw等智能体撰写专利申请文件，可能诱发多重风险",
-          "url": "https://flash.jin10.com/detail/20260401070445981800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "美国纽约市宣布撤销政府设备使用TikTok禁令",
-          "url": "https://wallstreetcn.com/livenews/3080628",
+          "title": "TikTok放弃在爱尔兰增设第二个数据中心的计划，因为电网容量有限的缘故",
+          "url": "https://wallstreetcn.com/livenews/3081030",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "美国纽约市宣布撤销政府设备使用TikTok禁令",
-          "url": "https://flash.jin10.com/detail/20260401131154457800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "国家知识产权局：使用OpenClaw等智能体撰写专利申请文件，可能诱发多重风险",
-          "url": "https://wallstreetcn.com/livenews/3080430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "TikTok寻求在巴西获得金融科技许可。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3080319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "QQ原生接入OpenClaw官方平台",
-          "url": "https://flash.jin10.com/detail/20260401164526261800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "01时02分"
         }
       ]
     }
