@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-02T13:08:08.012732+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-04-02T15:21:04.130426+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
       "match_count": 7,
       "titles": [
+        {
+          "title": "商业航天竞争加剧：亚马逊计划收购卫星公司 以与SpaceX星链竞争",
+          "url": "https://www.cls.cn/detail/2332935",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 15时21分]"
+        },
         {
           "title": "美国TikTok禁令演不下去了吗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDTikTok%E7%A6%81%E4%BB%A4%E6%BC%94%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%E5%90%97%23&t=31&band_rank=14&Refer=top",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时42分 ~ 13时08分]"
-        },
-        {
-          "title": "商业航天竞争加剧：亚马逊计划收购卫星公司 以与SpaceX星链竞争",
-          "url": "https://www.cls.cn/detail/2332935",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "TikTok放弃在爱尔兰增设第二个数据中心的计划，因为电网容量有限的缘故",
