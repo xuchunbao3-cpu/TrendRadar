@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T06:37:55.524138+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-04-03T07:40:33.083643+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "亚马逊对众多在线商家征收3.5%的燃油附加费",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "战火烧向科技公司！亚马逊中东云计算中心遭袭 更多基础设施成为目标",
+          "url": "https://www.cls.cn/detail/2334022",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "伊朗：打击亚马逊位于巴林的计算中心",
