@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T17:04:58.159947+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-04-02T18:56:44.007779+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 17时04分]"
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 18时56分]"
         },
         {
           "title": "美国TikTok禁令演不下去了吗",
