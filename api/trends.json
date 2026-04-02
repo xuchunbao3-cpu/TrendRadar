@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T07:50:41.200949+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-04-02T10:42:24.382867+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "TikTok放弃在爱尔兰增设第二个数据中心的计划，因为电网容量有限的缘故",
@@ -25,7 +25,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -36,9 +36,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "美国TikTok禁令演不下去了吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDTikTok%E7%A6%81%E4%BB%A4%E6%BC%94%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%E5%90%97%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "据英国金融时报：亚马逊(AMZN.O)正洽谈收购卫星公司全球星，与埃隆·马斯克的星链展开竞争。",
@@ -47,9 +58,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "港股OpenClaw概念股多数下跌，智谱(02513.HK)跌超15%，MINIMAX-W(00100.HK)跌超9%，金山云(03896.HK)、小米集团(01810.HK)跌超3%，阿里巴巴(09988.HK)、美团(03690.HK)跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260402095326116800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         }
       ]
     }
