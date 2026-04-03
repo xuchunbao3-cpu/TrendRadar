@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T13:10:35.832973+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2026-04-03T15:17:47.147082+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时40分 ~ 13时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时40分 ~ 15时17分]"
         },
         {
           "title": "亚马逊对众多在线商家征收3.5%的燃油附加费",
@@ -72,7 +73,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
