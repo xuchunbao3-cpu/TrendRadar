@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T18:40:02.797962+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-04-04T19:34:56.644654+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时51分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[15时51分 ~ 19时34分]"
         },
         {
           "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时51分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[15时51分 ~ 19时34分]"
         },
         {
           "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
