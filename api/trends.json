@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T22:40:15.468376+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2026-04-05T23:38:43.006870+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时42分 ~ 22时40分]"
+          "appearance_count": 24,
+          "time_info": "[00时42分 ~ 23时38分]"
         },
         {
           "title": "亚马逊数据中心遇袭：搬上太空能躲过导弹吗？",
@@ -31,7 +31,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         }
