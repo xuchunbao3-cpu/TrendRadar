@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T07:39:29.192537+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-04-06T10:54:17.582438+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
@@ -18,19 +18,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时54分]"
         },
         {
           "title": "亚马逊数据中心遇袭：搬上太空能躲过导弹吗？",
           "url": "https://wallstreetcn.com/articles/3769291",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时52分 ~ 07时39分]"
+          "appearance_count": 9,
+          "time_info": "[02时52分 ~ 10时54分]"
         }
       ]
     }
