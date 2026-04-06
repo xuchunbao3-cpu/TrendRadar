@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T13:31:38.806718+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-04-06T15:51:51.753536+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时52分 ~ 13时31分]"
+          "appearance_count": 11,
+          "time_info": "[02时52分 ~ 15时51分]"
         },
         {
           "title": "Claude禁止OpenClaw接入",
