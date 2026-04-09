@@ -1,55 +1,33 @@
 {
-  "generated_at": "2026-04-09T23:26:56.477048+08:00",
-  "total_titles_processed": 1759,
+  "generated_at": "2026-04-10T01:13:40.177938+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "亚马逊CEO：芯片业务将为公司节省大量资本支出费用",
-          "url": "https://flash.jin10.com/detail/20260409214416416800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "亚马逊：AWS的AI业务年化收入在2026年第一季度超过150亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3085018",
+          "title": "亚马逊考虑向其他公司出售其AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3085230",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时04分"
+          "time_info": "01时13分"
         },
         {
-          "title": "亚马逊芯片业务年化营收现已超过200亿美元",
-          "url": "https://wallstreetcn.com/livenews/3085022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)上涨1.7%，CEO称其人工智能业务第一季度的年化收入已超过150亿美元。",
-          "url": "https://flash.jin10.com/detail/20260409213233701800",
+          "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
+          "url": "https://flash.jin10.com/detail/20260410004158650800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时52分"
+          "time_info": "01时13分"
         }
       ]
     }
