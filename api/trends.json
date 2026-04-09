@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-04-09T17:15:48.080008+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-04-09T19:04:30.696176+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚马逊：AWS的AI业务年化收入在2026年第一季度超过150亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3085018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "亚马逊芯片业务年化营收现已超过200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3085022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
