@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T10:55:15.977645+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2026-04-10T13:31:17.327892+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "标普500指数初步收涨0.6%，可选消费板块涨2.4%，能源板块跌1.1%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊涨5.3%，英特尔涨4.9%，拉姆研究涨4.8%，美光涨3.6%，科磊涨3.2%，Palantir跌7.2%，CrowdStrike跌7.3%，Axon跌10.8%，Zscaler跌11.5%。 亚马逊领跑道指成分股，卡特彼勒、耐克、安进、沃尔玛等涨超1%，思科跌0.6%，雪佛龙跌1.4%，IBM跌2%，Salesforce跌3%。 费城半导体指数初步收涨2%，继续创收盘历史新高。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "5月裁员1.4万人？中国区整体被裁撤？亚马逊回应：消息不属实",
+          "url": "https://wallstreetcn.com/livenews/3085565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     }
