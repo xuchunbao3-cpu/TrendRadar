@@ -1,59 +1,7 @@
 {
-  "generated_at": "2026-04-13T23:20:07.013812+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-04-14T01:09:39.698709+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据报道，微软正在开发新的Copilot功能，新功能受OpenClaw启发。",
-          "url": "https://wallstreetcn.com/livenews/3086988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "Hermes 能否替代 openclaw？",
-          "url": "https://www.zhihu.com/question/2026454682885791949",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 14时20分]"
-        },
-        {
-          "title": "据The Information：据悉微软(MSFT.O)Copilot的新功能受OpenClaw启发。",
-          "url": "https://flash.jin10.com/detail/20260413210449338800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "OpenAI在备忘录中称赞与亚马逊的联盟，称微软“限制了我们接触客户的能力”。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3086976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
