@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T15:55:31.937341+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-04-14T17:25:14.376657+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "亚马逊接近达成收购全球星公司（Globalstar）的交易，旨在挑战马斯克的星链。",
@@ -36,9 +36,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "荣耀全场景产品软件总经理席迎军表示，YOYO Claw技术可以实现核心数据100%留存本地，同时相比OpenClaw方案，综合词元消耗可节省50%。（一财）",
+          "url": "https://wallstreetcn.com/livenews/3087561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     }
