@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-04-16T22:10:20.303796+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2026-04-17T00:26:22.086997+08:00",
+  "total_titles_processed": 303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "甲骨文与亚马逊云服务（AWS）合作扩展多云网络。",
-          "url": "https://wallstreetcn.com/livenews/3089316",
+          "title": "【阿里通义实验室开源Qwen3.6-35B-A3B模型】4月16日，阿里通义实验室宣布Qwen3.6-35B-A3B开源。据介绍，这是一款采用稀疏混合专家（MoE）架构的高效模型：总参数350亿，每次推理仅激活30亿参数。在智能体编程上，Qwen3.6-35B-A3B大幅超越前代Qwen3.5-35B-A3B，并可与Qwen3.5-27B、Gemma-31B等体量更大的稠密模型一较高下，同时可兼容OpenClaw、Claude Code、Qwen Code等主流编程助手。",
+          "url": "https://wallstreetcn.com/livenews/3089467",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "美股开盘，道指涨0.16%，标普500指数涨0.2%，纳指涨0.17%。台积电(TSM.N)开跌1.82%，其第一季度利润大增58%，公司预计第二季度营收为390亿至402亿美元；甲骨文(ORCL.N)开涨3.35%，此前公司宣布与亚马逊云服务合作。",
-          "url": "https://flash.jin10.com/detail/20260416213037420800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "00时26分"
         }
       ]
     }
