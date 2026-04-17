@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-17T23:02:08.855657+08:00",
-  "total_titles_processed": 1721,
+  "generated_at": "2026-04-18T00:10:54.367133+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【阿里通义实验室开源Qwen3.6-35B-A3B模型】4月16日，阿里通义实验室宣布Qwen3.6-35B-A3B开源。据介绍，这是一款采用稀疏混合专家（MoE）架构的高效模型：总参数350亿，每次推理仅激活30亿参数。在智能体编程上，Qwen3.6-35B-A3B大幅超越前代Qwen3.5-35B-A3B，并可与Qwen3.5-27B、Gemma-31B等体量更大的稠密模型一较高下，同时可兼容OpenClaw、Claude Code、Qwen Code等主流编程助手。",
-          "url": "https://wallstreetcn.com/livenews/3089467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
