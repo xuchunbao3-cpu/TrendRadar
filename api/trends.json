@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T19:14:15.130482+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-04-21T21:53:28.071098+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "亚马逊(AMZN.O)：Anthropic将在AWS技术上投资超过1000亿美元。",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时52分]"
+        },
+        {
+          "title": "美股三大股指高开，道指涨0.5%，标普500指数涨0.28%，纳指涨0.27%。联合健康(UNH.N)涨9.4%，一季度财报优于预期。亚马逊(AMZN.O)涨2.1%，其与Anthropic升级合作关系。苹果(AAPL.O)跌0.3%，库克将卸任CEO，特努斯接任。",
+          "url": "https://flash.jin10.com/detail/20260421213027894800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "Anthropic与亚马逊扩大战略合作",
