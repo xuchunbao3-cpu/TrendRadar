@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T14:32:29.253685+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-04-27T17:23:42.245698+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 17时23分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
