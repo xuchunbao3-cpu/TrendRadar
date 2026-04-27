@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-27T07:44:29.559732+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-04-27T11:32:00.511579+08:00",
+  "total_titles_processed": 717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
           "url": "https://www.toutiao.com/trending/7632564309457141806/",
