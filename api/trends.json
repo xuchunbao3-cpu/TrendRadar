@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-04-29T23:20:32.596693+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-04-30T01:43:41.770196+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "随着微软放弃排他性协议，亚马逊将开始销售OpenAI的技术",
-          "url": "https://wallstreetcn.com/livenews/3095938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "亚马逊云服务(AWS)与OpenAI宣布扩大合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260429010529383800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "亚马逊：Codex现已在亚马逊基础Bedrock上推出。",
-          "url": "https://flash.jin10.com/detail/20260429010454808800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "亚马逊推出类OpenClaw智能体，加码进军企业软件市场",
-          "url": "https://wallstreetcn.com/livenews/3095924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
