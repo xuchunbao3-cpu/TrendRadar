@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-30T15:32:13.055802+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-04-30T18:11:31.004544+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "亚马逊云服务(AWS)：中东（巴林）区域（ME-SOUTH-1）因中东冲突遭受破坏，目前无法使用。目前该AWS区域的计费操作已暂停，预计恢复正常运营将需要数月时间。",
-          "url": "https://flash.jin10.com/detail/20260430151346027800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
           "url": "https://wallstreetcn.com/articles/3771319",
@@ -27,8 +16,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 18时11分]"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：中东（巴林）区域（ME-SOUTH-1）因中东冲突遭受破坏，目前无法使用。目前该AWS区域的计费操作已暂停，预计恢复正常运营将需要数月时间。",
+          "url": "https://flash.jin10.com/detail/20260430151346027800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "美银全球研究：将亚马逊(AMZN.O)目标价从298美元上调至310美元。",
+          "url": "https://flash.jin10.com/detail/20260430180909732800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "亚马逊盘后涨超4.5%。",
