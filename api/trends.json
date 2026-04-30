@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T20:17:58.507422+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-04-30T23:13:56.878988+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 20时17分]"
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 23时13分]"
         },
         {
           "title": "亚马逊云服务(AWS)：中东（巴林）区域（ME-SOUTH-1）因中东冲突遭受破坏，目前无法使用。目前该AWS区域的计费操作已暂停，预计恢复正常运营将需要数月时间。",
