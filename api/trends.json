@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T04:12:25.534119+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-05-06T06:04:46.825138+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "亚马逊(AMZN.O)：宣布计划在2026年至2028年的三年间在法国投资超过150亿欧元，投资涵盖基础设施开支及运营支出。",
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
         },
@@ -37,9 +37,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "Cerence AI：向美国国际贸易委员会对亚马逊提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20260506052300378800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "Meta计划推出AI助手，对标OpenClaw",
@@ -48,7 +59,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
         },
@@ -59,7 +70,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
         },
