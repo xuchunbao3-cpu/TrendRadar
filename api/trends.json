@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-05-05T19:19:30.457820+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-05-06T00:32:15.650716+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "标普500指数初步收跌0.4%，原材料板块跌1.6%，工业板块跌1.1%，科技板块跌0.3%，能源板块涨0.7%。 纳斯达克100指数初步收跌0.2%，成分股中，ODFL初步收跌6.8%，AMD跌5.3%，高通跌4.8%，特许通讯、Arm控股跌3.8%，Insmed则涨4.9%，闪迪涨5.3%，美光科技涨6.5%。 家得宝跌3.4%，波音跌2.7%，耐克跌2.5%，领跌道指成分股，雪佛龙、Salesforce则涨0.9%，亚马逊涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3098626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)首席执行官：我们与英伟达(NVDA.O)有着深厚的合作关系。",
-          "url": "https://flash.jin10.com/detail/20260505062352724800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
