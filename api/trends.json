@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T23:48:44.075659+08:00",
-  "total_titles_processed": 1684,
+  "generated_at": "2026-05-09T01:24:41.128650+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "标普500指数初步收跌0.4%，能源、原材料板块跌1.8%，科技板块持平，电信板块微涨不到0.1%。 纳斯达克100指数初步收跌0.1%，成分股中，Insmed初步收跌23%，Arm跌10%，迈威尔科技、闪迪、贝克休斯、MPWR等至多跌7.2%，派拓网络涨7.1%，CrowdStrike涨8.2%，Zscaler涨9.9%，Axon涨10.8%，Fortinet涨20.4%，Datadog涨31.2%。 卡特彼勒初步收跌3.4%，摩根大通跌2.6%，3M跌1.8%，雪佛龙跌1.5%，亚马逊跌1.4%，领跌道指成分股，英伟达涨1.7%，Salesforce涨2.8%。",
-          "url": "https://wallstreetcn.com/livenews/3100177",
-          "source": "华尔街见闻-快讯",
+          "title": "亚马逊云服务（AWS）：我们已确认美国—东部—1区域内Redshift集群的错误率上升及查询失败问题已完全恢复正常；影响Redshift的问题已解决，服务正常运行。",
+          "url": "https://flash.jin10.com/detail/20260509003623006800",
+          "source": "金十数据",
           "ranks": [
-            9
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时18分"
+          "time_info": "01时24分"
         }
       ]
     }
