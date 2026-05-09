@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-05-09T23:59:14.826910+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-05-10T01:06:20.280997+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "亚马逊云服务（AWS）：我们已确认美国—东部—1区域内Redshift集群的错误率上升及查询失败问题已完全恢复正常；影响Redshift的问题已解决，服务正常运行。",
-          "url": "https://flash.jin10.com/detail/20260509003623006800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：此次故障是由热事件引发的，该事件导致美国-东部-1区域内某个可用区发生运行故障，进而造成电源中断。仍有少量实例和EBS卷无法正常使用。",
-          "url": "https://flash.jin10.com/detail/20260509111126061800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
