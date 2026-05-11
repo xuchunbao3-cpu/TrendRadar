@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-11T16:27:08.971417+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-05-11T20:15:34.587508+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenClaw失控是怎么回事",
+          "url": "https://search.bilibili.com/all?keyword=OpenClaw%E5%A4%B1%E6%8E%A7%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
