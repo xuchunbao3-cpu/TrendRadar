@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-13T00:26:12.042361+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-13T03:02:08.297893+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊：亚马逊现已在超过1000个城市和城镇提供当日生鲜杂货配送，并计划在年底前将覆盖范围扩大一倍。",
+          "url": "https://flash.jin10.com/detail/20260513020931553800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
