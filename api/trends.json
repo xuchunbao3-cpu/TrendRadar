@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-05-13T18:34:14.196906+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-05-13T21:17:40.519534+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "亚马逊将Alexa集成进购物搜索栏",
+          "url": "https://wallstreetcn.com/livenews/3103051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：购物助手Alexa将在未来一周内向所有美国客户推出。",
+          "url": "https://flash.jin10.com/detail/20260513210039213800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
         {
           "title": "标普500指数初步收跌0.1%，科技板块跌1%，可选消费板块跌0.9%，能源板块涨0.9%，日用品板块涨1.6%，保健板块涨2%。 纳斯达克100指数初步收跌0.9%，成分股中，高通初步收跌11.3%，英特尔跌6.8%，Strategy、闪迪、西部数据、恩智浦至少跌超4%，路透跌2.5%，ISRG涨2.6%，AppLovin涨2.8%，德康医疗涨3.1%，Insmed涨12.1%。 联合健康初步收涨3.1%，沃尔玛涨2.3%，安进涨2%，领跑道指成分股，微软、亚马逊、卡特彼勒、IBM则跌超1%，Salesforce跌3.6%。 费城半导体指数跌3%，纳斯达克生物科技指数涨1.1%。",
           "url": "https://wallstreetcn.com/livenews/3102490",
@@ -28,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)在美国推出购物助手Alexa。",
+          "url": "https://flash.jin10.com/detail/20260513205934591800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         }
       ]
     }
