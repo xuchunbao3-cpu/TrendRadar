@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-17T19:12:55.662436+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-05-17T21:40:32.758046+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "HermesAgent 超越 OpenClaw 成为全球 Token 消耗第一，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2037133840666321869",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
