@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T20:37:34.419284+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-05-19T00:29:27.442956+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
@@ -8,29 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "HermesAgent 超越 OpenClaw 成为全球 Token 消耗第一，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2037133840666321869",
-          "source": "知乎",
+          "title": "据华尔街日报：亚马逊网络服务CEO反驳人工智能将导致就业末日的警告。",
+          "url": "https://flash.jin10.com/detail/20260519000740912800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            15,
-            19,
-            17
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 07时03分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
           "url": "https://wallstreetcn.com/articles/3772477",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "00时29分"
         }
       ]
     }
