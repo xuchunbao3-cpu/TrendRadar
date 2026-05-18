@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T02:55:49.431500+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-19T04:29:02.785689+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 04时29分]"
         },
         {
           "title": "据华尔街日报：亚马逊网络服务CEO反驳人工智能将导致就业末日的警告。",
