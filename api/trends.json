@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T00:29:27.442956+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-19T02:55:49.431500+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
+          "url": "https://wallstreetcn.com/articles/3772477",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 02时55分]"
+        },
+        {
           "title": "据华尔街日报：亚马逊网络服务CEO反驳人工智能将导致就业末日的警告。",
           "url": "https://flash.jin10.com/detail/20260519000740912800",
           "source": "金十数据",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
-          "url": "https://wallstreetcn.com/articles/3772477",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
