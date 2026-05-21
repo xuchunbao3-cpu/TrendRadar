@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-21T20:19:31.577314+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-05-22T00:19:05.278479+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊创始人贝佐斯：美国税法是裙带资本主义，需要修正",
-          "url": "https://wallstreetcn.com/livenews/3106838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
