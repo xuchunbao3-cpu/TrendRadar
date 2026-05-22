@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-22T23:52:02.747425+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2026-05-23T01:57:26.349065+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊CEO Andy Jassy：Prime Video正在成长，项目是有利可图的。",
-          "url": "https://wallstreetcn.com/livenews/3107587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
