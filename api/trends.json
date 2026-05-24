@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-24T22:27:04.027142+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-05-25T00:04:44.949455+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "孔子能够写Python吗？——当大语言遇见古语言",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33203863",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
