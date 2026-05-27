@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T13:20:44.885779+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-05-27T18:02:28.217870+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "合肥湿度95% 亚马逊丛林才85%",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "市场消息：ELEMENTAL IMPACT与亚马逊、谷歌、Meta公司和微软共同启动数据中心创新计划。",
+          "url": "https://flash.jin10.com/detail/20260527173132501800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     }
