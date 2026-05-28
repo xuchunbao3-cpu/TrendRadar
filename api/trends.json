@@ -1,69 +1,7 @@
 {
-  "generated_at": "2026-05-28T22:40:41.651922+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-05-29T02:15:26.390309+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "Snowflake(SNOW.N)盘后股价大涨30%，此前宣布与亚马逊(AMZN.O)扩大合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260528041408905800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "Snowflake(SNOW.N)：客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。",
-          "url": "https://flash.jin10.com/detail/20260528040816674800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "据华尔街日报：Snowflake(SNOW.N)承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。",
-          "url": "https://flash.jin10.com/detail/20260528040726621800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。 Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。 客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。 Snowflake美股盘后涨30%。",
-          "url": "https://wallstreetcn.com/livenews/3110250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "据华尔街日报：亚马逊(AMZN.O)与Snowflake(SNOW.N)达成60亿美元协议，采购Graviton智能计算芯片。",
-          "url": "https://flash.jin10.com/detail/20260528040657963800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
