@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-29T20:19:23.495826+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-05-30T00:45:15.466441+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据英国金融时报：亚马逊(AMZN.O)取消人工智能排行榜，以阻止员工追求使用分数。",
-          "url": "https://flash.jin10.com/detail/20260529043255539800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
