@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T17:55:36.552399+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-06-03T22:46:49.794175+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 22时46分]"
         },
         {
           "title": "国台办回应赖清德攻击TikTok小红书",
