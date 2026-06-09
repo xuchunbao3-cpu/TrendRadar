@@ -1,44 +1,33 @@
 {
-  "generated_at": "2026-06-09T23:16:24.944340+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-06-10T02:11:38.702673+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "光纤“祖师爷”康宁股价拉升 与亚马逊达成数十亿美元生产协议",
-          "url": "https://www.cls.cn/detail/2394091",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：向美国证券交易委员会提交文件，拟发行五期加元计价债券，总规模最高达140亿加元。",
-          "url": "https://flash.jin10.com/detail/20260609053024906800",
+          "title": "亚马逊(AMZN.O)：Claude Fable 5现已在亚马逊云服务(AWS)上线。",
+          "url": "https://flash.jin10.com/detail/20260610014931640800",
           "source": "金十数据",
           "ranks": [
-            22
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "02时11分"
         },
         {
-          "title": "Cipher Digital Inc.计划通过发行垃圾债（高收益率债券）融资8.10亿美元，用于支持一个与亚马逊相关的数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3116319",
+          "title": "AWS：Claude Fable 5在亚马逊Bedrock可用，在AWS的Claude Platform上也可用。",
+          "url": "https://wallstreetcn.com/livenews/3116977",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时13分"
+          "time_info": "02时11分"
         }
       ]
     }
