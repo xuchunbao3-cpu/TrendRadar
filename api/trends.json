@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-06-14T00:17:55.807754+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-14T02:12:23.827481+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
+          "url": "https://flash.jin10.com/detail/20260614010232105800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
+          "url": "https://flash.jin10.com/detail/20260614001329812800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
