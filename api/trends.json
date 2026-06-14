@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T06:08:31.503781+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-06-14T08:12:58.139168+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 04时20分]"
+        },
+        {
+          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
+          "url": "https://wallstreetcn.com/articles/3774595",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
