@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T13:54:10.618608+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-06-14T17:42:32.777435+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时12分 ~ 17时42分]"
+        },
+        {
+          "title": "Anthropic全球下架Mythos和Fable模型的“幕后推手”：“主要股东”亚马逊CEO",
+          "url": "https://wallstreetcn.com/articles/3774600",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时12分 ~ 13时54分]"
+          "time_info": "[13时53分 ~ 17时42分]"
         },
         {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 04时20分]"
-        },
-        {
-          "title": "Anthropic全球下架Mythos和Fable模型的“幕后推手”：“主要股东”亚马逊CEO",
-          "url": "https://wallstreetcn.com/articles/3774600",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
         },
         {
           "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
