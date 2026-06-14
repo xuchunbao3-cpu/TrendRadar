@@ -1,60 +1,22 @@
 {
-  "generated_at": "2026-06-14T22:24:31.654989+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-06-15T00:27:11.172786+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "Anthropic全球下架Mythos和Fable模型的“幕后推手”：“主要股东”亚马逊CEO",
           "url": "https://wallstreetcn.com/articles/3774600",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 22时24分]"
-        },
-        {
-          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
-          "url": "https://wallstreetcn.com/articles/3774595",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时12分 ~ 17时42分]"
-        },
-        {
-          "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
-          "url": "https://flash.jin10.com/detail/20260614010232105800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时12分 ~ 04时20分]"
-        },
-        {
-          "title": "据科技媒体The Information报道，亚马逊CEO安迪·贾西在特朗普政府针对AI公司Anthropic采取行动之前，曾对该公司的模型表达过担忧。",
-          "url": "https://flash.jin10.com/detail/20260614001329812800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
+          "time_info": "[00时26分 ~ 00时27分]"
         }
       ]
     }
