@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-06-16T02:43:05.259223+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-16T05:47:36.218414+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Coinbase与亚马逊旗下AWS让出版商们接受Agents（智能体）为客户。 两家公司希望通过X420接受Agents为客户。",
+          "url": "https://wallstreetcn.com/livenews/3119883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：在Amazon Bedrock上推出GEMMA 4模型。",
+          "url": "https://flash.jin10.com/detail/20260616043033738800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
