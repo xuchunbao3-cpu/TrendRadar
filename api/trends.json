@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T03:47:25.321827+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-17T06:17:07.220963+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "连涨三天市值狂增万亿美元！SpaceX超越亚马逊跻身全球前五",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 06时17分]"
         },
         {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
@@ -26,8 +26,30 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 06时17分]"
+        },
+        {
+          "title": "据知情人士称，亚马逊(AMZN.O)或因涉嫌误导广告商而遭美国联邦贸易委员会起诉，或面临数十亿美元民事罚款。",
+          "url": "https://flash.jin10.com/detail/20260617044431698800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时47分"
+          "time_info": "06时17分"
+        },
+        {
+          "title": "SpaceX收涨4.77%，报201.68美元，收盘市值2.65万亿美元，超过亚马逊、成为全球第五大上市公司。",
+          "url": "https://wallstreetcn.com/livenews/3120488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     }
