@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T14:18:57.167474+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-06-17T19:53:10.368606+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3774826",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 19时53分]"
         },
         {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
