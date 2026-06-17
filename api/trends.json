@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-06-18T00:02:14.209213+08:00",
-  "total_titles_processed": 310,
-  "failed_sources": [
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-06-18T02:25:16.023222+08:00",
+  "total_titles_processed": 418,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
@@ -17,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 3,
+          "time_info": "[00时00分 ~ 02时25分]"
         }
       ]
     }
