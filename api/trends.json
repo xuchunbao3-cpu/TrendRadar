@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T08:21:47.999011+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-06-17T14:18:57.167474+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "连涨三天市值狂增万亿美元！SpaceX超越亚马逊跻身全球前五",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时47分 ~ 08时21分]"
+        },
+        {
+          "title": "SpaceX上市后股价飙升49%，市值超越亚马逊，逼近微软，股票期权开始交易",
+          "url": "https://wallstreetcn.com/articles/3774826",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
@@ -48,7 +59,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
         },
