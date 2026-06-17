@@ -1,79 +1,24 @@
 {
-  "generated_at": "2026-06-17T19:53:10.368606+08:00",
-  "total_titles_processed": 1015,
-  "failed_sources": [],
+  "generated_at": "2026-06-18T00:02:14.209213+08:00",
+  "total_titles_processed": 310,
+  "failed_sources": [
+    "wallstreetcn-hot"
+  ],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "连涨三天市值狂增万亿美元！SpaceX超越亚马逊跻身全球前五",
-          "url": "https://www.cls.cn/detail/2401556",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时47分 ~ 08时21分]"
-        },
         {
           "title": "SpaceX上市后股价飙升49%，市值超越亚马逊，逼近微软，股票期权开始交易",
           "url": "https://wallstreetcn.com/articles/3774826",
           "source": "华尔街见闻",
           "ranks": [
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 19时53分]"
-        },
-        {
-          "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2401513",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时47分 ~ 08时21分]"
-        },
-        {
-          "title": "据知情人士称，亚马逊(AMZN.O)或因涉嫌误导广告商而遭美国联邦贸易委员会起诉，或面临数十亿美元民事罚款。",
-          "url": "https://flash.jin10.com/detail/20260617044431698800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "SpaceX超越亚马逊成全球市值第五公司",
-          "url": "https://www.toutiao.com/trending/7652134285020761650/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "SpaceX收涨4.77%，报201.68美元，收盘市值2.65万亿美元，超过亚马逊、成为全球第五大上市公司。",
-          "url": "https://wallstreetcn.com/livenews/3120488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "00时00分"
         }
       ]
     }
