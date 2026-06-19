@@ -1,44 +1,22 @@
 {
-  "generated_at": "2026-06-19T20:11:42.073266+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-06-20T00:09:22.484728+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
           "url": "https://wallstreetcn.com/articles/3775047",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
-        },
-        {
-          "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3121908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "【报道：亚马逊洽谈向其他公司出售英伟达竞品芯片】亚马逊正在洽谈出售其定制的人工智能芯片，以供其他公司的数据中心使用，这是其努力削弱英伟达公司主导地位的关键扩张举措。亚马逊AI业务负责人表示，公司已开始与潜在客户进行讨论，但拒绝透露具体名称，并认为AI基础设施正在快速演变。亚马逊第三代AI加速器Trainium已基本售罄，且预计明年推出的第四代产品已引起强烈兴趣。",
-          "url": "https://wallstreetcn.com/livenews/3121801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "time_info": "00时09分"
         }
       ]
     }
