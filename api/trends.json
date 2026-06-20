@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-06-20T22:26:37.612707+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-06-21T00:23:40.313662+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
-          "url": "https://wallstreetcn.com/articles/3775047",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3122199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
