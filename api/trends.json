@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-21T08:12:51.602692+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-06-21T14:07:15.544570+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "探秘亚马逊雨林奇遇与人文",
+          "url": "https://www.douyin.com/hot/2541203",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时06分 ~ 14时07分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
