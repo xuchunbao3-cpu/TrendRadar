@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-24T21:25:21.726245+08:00",
-  "total_titles_processed": 1264,
+  "generated_at": "2026-06-25T00:25:12.704884+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "云端运算安全公司Zscaler与亚马逊云服务(AWS)达成协议，将在集成、参考架构和联合市场推广活动方面进行合作；双方将联手保障政府、医疗和教育领域的生成式人工智能安全。",
-          "url": "https://flash.jin10.com/detail/20260624044008749800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
