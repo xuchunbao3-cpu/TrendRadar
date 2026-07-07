@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-07-07T22:45:49.962274+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-07-08T01:21:33.518824+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "亚马逊推出AWS SimuLearn学习计划徽章。",
-          "url": "https://wallstreetcn.com/livenews/3129521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "美国博主一口闷茅台走红TikTok",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%8D%9A%E4%B8%BB%E4%B8%80%E5%8F%A3%E9%97%B7%E8%8C%85%E5%8F%B0%E8%B5%B0%E7%BA%A2TikTok&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
