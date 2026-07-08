@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T06:13:41.097530+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-07-08T08:02:16.779925+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[04时02分 ~ 08时02分]"
         },
         {
           "title": "亚马逊发行250亿美元债券，获得620亿美元认购需求。",
@@ -37,7 +38,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
