@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-07-08T11:38:26.695348+08:00",
-  "total_titles_processed": 836,
-  "failed_sources": [],
+  "generated_at": "2026-07-08T14:34:23.072030+08:00",
+  "total_titles_processed": 994,
+  "failed_sources": [
+    "douyin",
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
@@ -17,8 +20,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时02分 ~ 11时38分]"
+          "appearance_count": 6,
+          "time_info": "[04时02分 ~ 14时33分]"
         },
         {
           "title": "亚马逊发行250亿美元债券，获得620亿美元认购需求。",
