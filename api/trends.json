@@ -1,57 +1,22 @@
 {
-  "generated_at": "2026-07-08T22:24:54.566819+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-07-09T00:45:20.072538+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "曝 TikTok 全球裁员，网传印尼将裁 90%，裁员出于哪些原因？这一架构调整可能带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2057807463441593129",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时02分 ~ 14时33分]"
-        },
-        {
-          "title": "亚马逊正在开发一个此前未被报道的Alexa项目，代号“Moonraker”，旨在帮用户处理更复杂、多步骤的任务。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3130569",
+          "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
+          "url": "https://wallstreetcn.com/livenews/3130814",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "亚马逊发行250亿美元债券，获得620亿美元认购需求。",
-          "url": "https://wallstreetcn.com/livenews/3130135",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "据美国证交会（SEC）文件显示，亚马逊(AMZN.O)定价242.5亿美元多期限债券发行，利率介于4.6%至6.25%。",
-          "url": "https://flash.jin10.com/detail/20260708051404780800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "time_info": "00时45分"
         }
       ]
     }
