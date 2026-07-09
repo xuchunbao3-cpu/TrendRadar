@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T16:34:59.539709+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-07-09T20:09:41.551613+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普：我在伊朗的刺杀名单榜首，但我更愿意在TikTok上排第一",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "微信读书为什么不专门为 Kindle 开发一款操作系统，去收割亚马逊丢掉的国内市场份额？",
+          "url": "https://www.zhihu.com/question/2010901701654254725",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         }
       ]
     }
