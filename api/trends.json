@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T04:50:33.701764+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-07-10T06:26:47.424642+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "微信读书为什么不专门为 Kindle 开发一款操作系统，去收割亚马逊丢掉的国内市场份额？",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 06时26分]"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：推出AWS Loom。",
+          "url": "https://flash.jin10.com/detail/20260710052241881800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时26分"
         }
       ]
     }
