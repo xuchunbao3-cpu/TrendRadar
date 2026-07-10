@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T00:59:41.578907+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-11T02:39:14.543409+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3132191",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时39分]"
         }
       ]
     }
