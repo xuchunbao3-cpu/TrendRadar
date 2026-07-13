@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-14T04:19:22.575248+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-07-14T06:01:54.499976+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
+          "url": "https://flash.jin10.com/detail/20260714050653705800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
