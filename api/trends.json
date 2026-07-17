@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-17T22:46:55.258996+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2026-07-18T00:18:46.762796+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "硅谷101对谈OpenClaw向涛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A1%85%E8%B0%B7101%E5%AF%B9%E8%B0%88OpenClaw%E5%90%91%E6%B6%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
