@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T06:54:50.800420+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-07-19T07:58:01.653601+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 07时58分]"
         },
         {
           "title": "市场消息：亚马逊(AMZN.O)旗下Zoox自愿召回了105辆无人出租车，以解决车辆未能检测到浓烟并直接驶入其中的软件问题。",
