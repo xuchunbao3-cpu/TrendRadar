@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-19T05:55:56.309150+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-07-19T06:54:50.800420+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
       "match_count": 2,
       "titles": [
+        {
+          "title": "亚马逊旗下Zoox因无人出租车驶入浓烟区而发起软件召回",
+          "url": "https://wallstreetcn.com/livenews/3136062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 06时54分]"
+        },
         {
           "title": "市场消息：亚马逊(AMZN.O)旗下Zoox自愿召回了105辆无人出租车，以解决车辆未能检测到浓烟并直接驶入其中的软件问题。",
           "url": "https://flash.jin10.com/detail/20260718230526488800",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "亚马逊旗下Zoox因无人出租车驶入浓烟区而发起软件召回",
-          "url": "https://wallstreetcn.com/livenews/3136062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 05时55分]"
         }
       ]
     }
