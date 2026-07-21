@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-07-21T23:51:14.346946+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-07-22T01:27:24.216025+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
-          "url": "https://wallstreetcn.com/livenews/3137082",
-          "source": "华尔街见闻-快讯",
+          "title": "亚马逊云服务(AWS)：亚马逊简单邮件服务专属免费套餐将不再向新客户提供。此前，新用户首次使用亚马逊简单邮件服务后的12个月内，每月可享受3000封邮件的免费额度。",
+          "url": "https://flash.jin10.com/detail/20260722010918397800",
+          "source": "金十数据",
           "ranks": [
-            18
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "01时27分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：自2026年7月21日起，所有新创建的亚马逊简单邮件服务账户将默认采用基础版套餐。",
+          "url": "https://flash.jin10.com/detail/20260722010413361800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
         }
       ]
     }
