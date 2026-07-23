@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T14:34:03.556799+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-07-23T17:28:12.819192+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伊朗袭击亚马逊公司设施",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 07时09分]"
+        },
+        {
+          "title": "据Business Insider：亚马逊(AMZN.O)已重新设计Alexa，减少对Anthropic模型的依赖。",
+          "url": "https://flash.jin10.com/detail/20260723170900911800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     }
