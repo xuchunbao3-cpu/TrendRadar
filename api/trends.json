@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T04:24:03.776319+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-07-25T06:09:18.998109+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 06时09分]"
         },
         {
           "title": "AWS宣布在Amazon Bedrock和AWS上接入Claude Opus 5。",
