@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T16:41:03.683681+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-07-28T19:22:00.892593+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "SpaceX已经“跌掉”一个特斯拉 亚马逊入局卫星通信大战 | 环球市场",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时49分 ~ 13时51分]"
+        },
+        {
+          "title": "蒙特利尔银行：将亚马逊(AMZN.O)目标价从355美元上调至360美元。",
+          "url": "https://flash.jin10.com/detail/20260728185720352800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "亚马逊Leo拟部署5105颗卫星，进军手机直连通信市场",
