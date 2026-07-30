@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T15:38:26.399624+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-07-30T18:29:02.029160+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "亚马逊宣布，自7月29日起将在Prime Video上推出Starz与Crunchyroll的捆绑套餐。 该捆绑套餐在Prime Video上的订阅价格为每月16.99美元。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "据英国金融时报：亚马逊发现多起人工智能导致技术项目支出失控的案例。",
+          "url": "https://flash.jin10.com/detail/20260730180612911800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     }
