@@ -1,300 +1,44 @@
 {
-  "generated_at": "2026-07-31T23:23:30.771826+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-08-01T01:43:27.608967+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 26,
+      "match_count": 3,
       "titles": [
         {
-          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
+          "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 20时05分]"
-        },
-        {
-          "title": "【早报】美科技股全线暴涨；苹果、亚马逊业绩公布；油价下行、黄金走强；宇树科技，8月10日申购",
-          "url": "https://www.cls.cn/detail/2442025",
-          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 14时48分]"
-        },
-        {
-          "title": "股价盘后涨近10%！亚马逊云业务蓬勃发展 上调全年资本支出至2200亿美元",
-          "url": "https://www.cls.cn/detail/2442011",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 14时48分]"
+          "appearance_count": 1,
+          "time_info": "01时43分"
         },
         {
           "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
           "url": "https://wallstreetcn.com/articles/3778371",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时21分 ~ 23时23分]"
-        },
-        {
-          "title": "AI暴力反弹“昙花一现”，美股盘中存储股走低，闪迪转跌，亚马逊涨超13%，日元走强重回159，油价涨超2%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "亚马逊股价在Tradegate交易平台上涨10.2%，因其季度云收入增长超出市场预期。",
-          "url": "https://flash.jin10.com/detail/20260731141455268800",
-          "source": "金十数据",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时48分"
+          "time_info": "01时43分"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2442973",
           "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)股价上涨15.2%，创2012年以来最大百分比涨幅。",
-          "url": "https://flash.jin10.com/detail/20260731223748935800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "TD Cowen：将亚马逊(AMZN.O)目标价从340美元上调至350美元。",
-          "url": "https://flash.jin10.com/detail/20260731140903032800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "加拿大皇家银行：将亚马逊(AMZN.O)目标价从320美元上调至330美元。",
-          "url": "https://flash.jin10.com/detail/20260731170914043800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
-          "title": "亚马逊Q2云业务营收超预期 盘后涨8%",
-          "url": "https://flash.jin10.com/detail/20260731041344585800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "亚马逊AWS净销售超预期，股价盘后涨9%",
-          "url": "https://wallstreetcn.com/livenews/3142633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "周五亚太盘初，纳指期货涨超0.5%，标普股指期货、道指期货涨超0.1%。 苹果目前（美股盘后）跌超6.5%，该公司电话会已经结束；微软跌0.7%，台积电、AMD、希捷科技、英特尔、西部数据、闪迪涨1.34%-5.07%，发布了业绩报告的亚马逊涨9.3%。",
-          "url": "https://wallstreetcn.com/livenews/3142674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "纳指期货周五盘初上涨0.5%，受亚马逊(AMZN.O)盘后上涨提振。",
-          "url": "https://flash.jin10.com/detail/20260731060546609800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "亚马逊在二季度获得6亿美元与（美国总统特朗普）关税相关的退款。 公司将向某些客户自动发放关税退款。",
-          "url": "https://wallstreetcn.com/livenews/3142667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "摩根大通将亚马逊目标价从330美元上调至365美元。",
-          "url": "https://wallstreetcn.com/livenews/3142945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：过去十二个月的自由现金流降至净流出76亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731040526807800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)预计Q3营收为1,970亿至2,020亿美元，而市场预估为2,040.72亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731040350891800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "财报公布后，亚马逊(AMZN.O)盘后拉升，现涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260731040217404800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：公司正在追求自有的前沿模型，以控制成本并降低消费者支出。",
-          "url": "https://flash.jin10.com/detail/20260731054215668800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)2026年Q2AWS云业务收入为422亿美元，市场预期404.81亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731040214168800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)2026年Q2营收2006亿美元，去年同期1677.02亿美元，市场预期1964.22亿美元。",
-          "url": "https://flash.jin10.com/detail/20260731040133726800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "亚马逊高管预计2026年资本开支2200亿美元，主要用于AI。 亚马逊美股盘后涨幅扩大至超过10%。",
-          "url": "https://wallstreetcn.com/livenews/3142660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)首席财务官：AWS的盈利能力并非偶然，而是得益于效率提升和产能优化。",
-          "url": "https://flash.jin10.com/detail/20260731053919202800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "摩根大通：将亚马逊(AMZN.O)目标价从330美元上调至365美元。",
-          "url": "https://flash.jin10.com/detail/20260731134352589800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "电话会：亚马逊AWS订单积压4960亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3142655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "01时43分"
         }
       ]
     }
