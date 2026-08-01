@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T11:19:54.753032+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-08-01T14:34:35.331083+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 14时34分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -37,11 +37,12 @@
             9,
             8,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 11时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 14时34分]"
         },
         {
           "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
