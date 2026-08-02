@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T19:19:55.299608+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-08-02T21:36:37.092112+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时05分 ~ 06时03分]"
+        },
+        {
+          "title": "伊朗称打击巴林亚马逊数据中心是对美国行动回应",
+          "url": "https://flash.jin10.com/detail/20260802190322702800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     }
