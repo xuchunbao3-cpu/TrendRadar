@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T01:56:26.099445+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-04T03:42:52.788964+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时42分]"
         },
         {
           "title": "亚马逊云业务负责人：人工智能业务潜在规模非常巨大",
