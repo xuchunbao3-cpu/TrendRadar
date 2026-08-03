@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T23:46:13.193290+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-08-04T01:56:26.099445+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时45分 ~ 23时46分]"
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
-          "title": "伊朗回应打击巴林亚马逊数据中心",
-          "url": "https://www.toutiao.com/trending/7669231761053859882/",
-          "source": "今日头条",
+          "title": "亚马逊云业务负责人：人工智能业务潜在规模非常巨大",
+          "url": "https://flash.jin10.com/detail/20260804005458816800",
+          "source": "金十数据",
           "ranks": [
-            28,
-            22,
-            19
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时04分]"
+          "appearance_count": 1,
+          "time_info": "01时56分"
         }
       ]
     }
