@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T16:43:53.675721+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-08-04T19:28:33.239782+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 16时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 19时28分]"
         },
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 05时08分]"
+        },
+        {
+          "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
+          "url": "https://wallstreetcn.com/articles/3778603",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 19时28分]"
         },
         {
           "title": "亚马逊(AMZN.O)盘后跌近2%。",
@@ -62,18 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        },
-        {
-          "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
-          "url": "https://wallstreetcn.com/articles/3778603",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时43分]"
         },
         {
           "title": "亚马逊股价盘后下挫，贝索斯提交出售将近41亿美元股票的文件",
