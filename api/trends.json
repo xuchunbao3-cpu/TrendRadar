@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T00:56:09.805416+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-05T02:41:43.012069+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时41分]"
         },
         {
           "title": "亚马逊正式跻身3万亿美元俱乐部！AWS负责人：“与客户签五年期长期合同，需求远超供给”",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时41分]"
         }
       ]
     }
