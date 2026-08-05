@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T15:46:26.809817+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-08-05T18:40:26.316924+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -39,6 +39,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 02时41分]"
+        },
+        {
+          "title": "迪士尼(DIS.N)：TikTok将为其创作者提供访问迪士尼庞大影片库中数百部电影和剧集相关资产的权限。",
+          "url": "https://flash.jin10.com/detail/20260805181008457800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "迪士尼(DIS.N)与TikTok宣布达成全球短视频内容分享协议。",
+          "url": "https://flash.jin10.com/detail/20260805180436349800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         }
       ]
     }
