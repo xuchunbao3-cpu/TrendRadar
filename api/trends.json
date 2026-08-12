@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T18:10:51.573262+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-08-12T21:17:56.618376+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8vX3mzcIRsB",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 21时17分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
