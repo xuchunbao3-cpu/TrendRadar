@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-12T12:50:48.776521+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-08-12T18:10:51.573262+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美国又撤销一项TikTok禁令，联邦政府设备上也可以使用了",
+          "url": "https://news.ifeng.com/c/8vX3mzcIRsB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
         {
           "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
           "url": "https://flash.jin10.com/detail/20260812055132698800",
@@ -38,7 +49,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         }
