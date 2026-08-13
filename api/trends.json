@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-08-13T21:20:40.863670+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2026-08-14T01:01:20.393801+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "openclaw tiktok floor mats amazon 亚马逊 python pycharm",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国又撤销一项TikTok禁令，联邦政府设备上也可以使用了",
-          "url": "https://news.ifeng.com/c/8vX3mzcIRsB",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时46分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
