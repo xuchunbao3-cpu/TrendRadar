@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T14:18:23.435262+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-08-14T18:07:48.219903+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 18时07分]"
         },
         {
           "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
